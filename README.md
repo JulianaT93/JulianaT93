@@ -7,6 +7,9 @@
 
 🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas (início em agosto/2023 e previsão de conclusão em dezembro/2025)
 
+💻 Desenvolvimento de Software com Foco em Back-end (Cubos Academy, atual e com previsão de conclusão em outubro/2023)
+Aprovada no processo seletivo de 1.000 bolsas de estudos integral da Cubos Academy em parceria com o Ifood (Potência Tech)
+
 👩‍🔬 🔬 Bacharelado em Biomedicina (Universidade de Mogi das Cruzes, 2015)<br>
 Habilitação em Toxicologia e Patologia Clínica
 
