@@ -5,10 +5,7 @@
 
 ### Sobre mim
 
-🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas (início em agosto/2023 e previsão de conclusão em dezembro/2025)
-
-💻 Desenvolvimento de Software com Foco em Back-end (Cubos Academy, atual e com previsão de conclusão em outubro/2023)
-Aprovada no processo seletivo de 1.000 bolsas de estudos integral da Cubos Academy em parceria com o Ifood (Potência Tech)
+🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas (Universidade La Salle, início em agosto/2023 e previsão de conclusão em dezembro/2025)
 
 👩‍🔬 🔬 Bacharelado em Biomedicina (Universidade de Mogi das Cruzes, 2015)<br>
 Habilitação em Toxicologia e Patologia Clínica
@@ -25,9 +22,15 @@ Pós-graduação:<br>
 
 🎓 Cursos Livres:
 <ul>
+<li>Desenvolvimento de Software com Foco em Back-end (Cubos Academy, com previsão de conclusão em outubro/2023)
+Dentre os 38.000 inscritos, fui aprovada no processo seletivo e consegui uma das 1.000 bolsas de estudos integral da Cubos Academy em parceria com o Ifood (Potência Tech)</li>
+
+<li>Bootcamp Santander 2023 - Fullstack Java+Angular (DIO, conclusão prevista para outubro/2023)
+Dentre os 100.000 inscritos, fui aprovada no processo seletivo e consegui uma das 75.000 bolsas de estudos integral da DIO em parceria com o Santander</li>
+
 <li>Minicurso Introdutório de Desenvolvimento de Software (Cubos Academy, 2023)</li>
+
 <li>Carreira QA: Processos e Automação de Testes (Alura, 2023)</li>
-<li>JMeter - Testes de Performance (Udemy, 2023)</li>
 </ul>
 
 ### Eu estou aprendendo pela Alura e DIO:
