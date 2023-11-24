@@ -30,7 +30,7 @@ Dentre os 100.000 inscritos, fui aprovada no processo seletivo e consegui uma da
 
 <li>Minicurso Introdutório de Desenvolvimento de Software (Cubos Academy, 2023)</li>
 
-<li>Carreira QA: Processos e Automação de Testes (Alura, 2023)</li>
+<li>Carreira QA: Processos e Automação de Testes (Alura, conclusão prevista para dezembro/2023)</li>
 </ul>
 
 ### Eu estou aprendendo pela Alura, Cubos Academy e DIO:
