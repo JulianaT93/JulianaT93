@@ -22,10 +22,10 @@ Pós-graduação:<br>
 
 🎓 Cursos de Tecnologia:
 <ul>
-<li>Desenvolvimento de Software com Foco em Back-end (Cubos Academy, com previsão de conclusão em outubro/2023)
-Dentre os 38.000 inscritos, fui aprovada no processo seletivo e consegui uma das 1.000 bolsas de estudos integral da Cubos Academy em parceria com o Ifood (Potência Tech)</li>
+<li>Desenvolvimento de Software com Foco em Back-end (Cubos Academy, 2023)
+Dentre os 36.000 inscritos, fui aprovada no processo seletivo e consegui uma das 1.000 bolsas de estudos integral da Cubos Academy em parceria com o Ifood (Potência Tech)</li>
 
-<li>Bootcamp Santander 2023 - Fullstack Java+Angular (DIO, conclusão prevista para outubro/2023)
+<li>Bootcamp Santander 2023 - Fullstack Java+Angular (DIO, conclusão prevista para dezembro/2023)
 Dentre os 100.000 inscritos, fui aprovada no processo seletivo e consegui uma das 75.000 bolsas de estudos integral da DIO em parceria com o Santander</li>
 
 <li>Minicurso Introdutório de Desenvolvimento de Software (Cubos Academy, 2023)</li>
