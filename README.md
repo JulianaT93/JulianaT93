@@ -1,7 +1,7 @@
 # Olá! Seja bem vindo(a)! 👋
 
 ## Eu sou a Juliana T.
-## Desenvolvedor de Software Back-end | Node.js | SQL | Git
+## Desenvolvedor de Software Back-end | Node.js | Java | SQL | Git | Mulesoft
 
 ### Sobre mim
 
